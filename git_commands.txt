@@ -1,0 +1,28 @@
+  git status
+ git init
+    git status
+    dir
+    s
+    ls
+    ls
+    git status
+   ls
+   dir
+   git add .\testing.py
+   git status
+   git commit -m "added testing files"
+   git status
+   rm .\testing.py
+   git restore testing.py
+   git status
+   git status
+   20 history
+   git status
+   git add .
+   git status
+   git commit -m "addes git commands"
+   git status
+   git remote add origin https://github.com/Sinhal29/Practice.git 
+   git remote -v
+   git push origin master
+
